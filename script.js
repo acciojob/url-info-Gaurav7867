@@ -1,2 +1,2 @@
 //your JS code here. If required.
-alert(window.location.href.length);//
+let str=alert(window.location.href.length);//
